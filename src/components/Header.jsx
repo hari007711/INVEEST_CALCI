@@ -1,4 +1,4 @@
-import logo from 'D:/New folder/InvCal/src/investment-calculator-logo.png';
+import logo from '../investment-calculator-logo.png';
 
 export default function Header(){
     return (
